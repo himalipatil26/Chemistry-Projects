@@ -62,9 +62,11 @@ Configuration: 1s² 2s² 2p⁴
 ### 1 **Clone the Repository**
 
 ```bash
-git clone https://github.com/himalipatil25/periodic-table-explorer.git
+git clone https://github.com/himalipatil25/Chemistry-Projects.git
 ```
-
+```
+cd Chemistry-Projects/Periodic Table Explorer
+```
 
 ### 2 Run the Script
 
