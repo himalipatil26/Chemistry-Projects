@@ -60,8 +60,8 @@ Key functionalities include:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/himalipatil25/Biology-Projects.git
-cd Biology-Projects/enzyme-activity-visualizer
+git clone https://github.com/himalipatil25/Chemistry-Projects.git
+cd Chemistry-Projects/enzyme-activity-visualizer
 ```
 ### 2. Run the Script
 ```
